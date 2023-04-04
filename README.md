@@ -15,8 +15,8 @@
 
 ## Стек технологий
 
-* Python 3.11,
-* Django 4.2,
+* Python 3.9,
+* Django 3.2,
 * DRF,
 * JWT + Djoser
 
